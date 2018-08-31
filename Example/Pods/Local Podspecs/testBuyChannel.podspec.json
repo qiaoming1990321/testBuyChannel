@@ -1,0 +1,22 @@
+{
+  "name": "testBuyChannel",
+  "version": "0.1.0",
+  "summary": "A short description of testBuyChannel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/qiaoming1990321/testBuyChannel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qiaoming1990321": "qiaoming@gomo.com"
+  },
+  "source": {
+    "git": "https://github.com/qiaoming1990321/testBuyChannel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testBuyChannel/Classes/**/*"
+}

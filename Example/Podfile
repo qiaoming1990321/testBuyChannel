@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'testBuyChannel_Example' do
+  pod 'testBuyChannel', :path => '../'
+
+  target 'testBuyChannel_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
